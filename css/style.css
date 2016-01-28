@@ -9,10 +9,10 @@ background-color: red;
 }
 div{
 	height: 25%;
-	width: 35%;
-	font-size: 105%;
+	width: 15%;
+	font-size: 110%;
 	margin-bottom: 2%;
-    
+    display: inline-block;
 }
 .pdl5{
 	padding-left: 2%;
